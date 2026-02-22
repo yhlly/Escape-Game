@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f428c89a75a3b1469370dd80c9d3033, type: 3}
+  m_Name: IntroSequence
+  m_EditorClassIdentifier: 
+  id: 
+  title: 
+  lines:
+  - "\u201CThe patient is talking crazy again\u2026\u201D"
+  - '"Give more medicines"'
+  - "\u201CTomorrow they will forget everything\u2026\u201D"
+  - "Where am I? A mental hospital?! Why am I here? I'm not sick.\r"
+  - "Goal: escape from the hospital and uncover the truth \r "
+  autoAdvanceSeconds: 0
+  allowSkip: 1
+  blockInput: 1
+  overlayAlpha: 0.86
